@@ -1,1 +1,2 @@
-# k6-cypress_course_2025.05.07
+# k6-cypress_course
+  - Study cypress
